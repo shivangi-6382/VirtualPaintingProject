@@ -42,8 +42,8 @@ You can switch between them by hovering in **selection mode** over the correspon
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/virtual-painting-app.git
-cd virtual-painting-app
+git clone https://github.com/shivangi-6382/VirtualPaintingProject.git
+cd VirtualPaintingProject
  ```
 ### 2.Install Dependencies
 ```bash
