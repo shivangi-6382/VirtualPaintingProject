@@ -8,16 +8,16 @@ This is a fun and interactive computer vision project built with OpenCV, MediaPi
 
 ---
 
-## 🎨 Features
+##  Features
 
-- ✅ **Real-time hand tracking** using MediaPipe
-- ✅ **Draw in the air** using hand gestures
-- ✅ **3 Drawing Colors** available
-- ✅ **Eraser Tool** for corrections
-- ✅ **Smooth and fast** performance
+- **Real-time hand tracking** using MediaPipe
+-  **Draw in the air** using hand gestures
+-  **3 Drawing Colors** available
+-  **Eraser Tool** for corrections
+-  **Smooth and fast** performance
 
 ---
-## 🖼️ UI Description
+##  UI Description
 
 - Top section of the screen displays:
   - 🟥 Red
@@ -38,7 +38,7 @@ You can switch between them by hovering in **selection mode** over the correspon
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
